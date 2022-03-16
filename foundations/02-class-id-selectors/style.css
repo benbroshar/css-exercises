@@ -1,0 +1,21 @@
+.odd {
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: "Verdana", "DejaVu sans", "sans-serif";
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#two {
+    color: rgba(0,0,255);
+    font-size: 36px;
+    font-family: "Verdana", "sans-serif"
+}
+
+#four {
+    background-color: rgba(0,255,0,0.2);
+    font-family: "Verdana", "sans-serif";
+    font-size: 24px;
+    font-weight: bold;
+}
